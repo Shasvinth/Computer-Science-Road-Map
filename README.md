@@ -65,9 +65,13 @@ Welcome to the **Computer Science Roadmap**! This guide is designed for anyone i
 
 - **Data Analysis**
   - [Kaggle's Intro to Data Analysis](https://www.kaggle.com/learn/intro-to-data-analysis)
+  - [Introduction to Data Analytics By IBM](https://www.coursera.org/learn/introduction-to-data-analytics)
+  - [Data Analytics Courses By Harvard](https://pll.harvard.edu/catalog?topics%5B714%5D=714&max_price=&start_date=&keywords=)
 
-- **Machine Learning & AI**
+
+- **Machine Learning**
   - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
+  - [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 ---
 
